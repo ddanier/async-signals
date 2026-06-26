@@ -1,5 +1,8 @@
 # async-signals
 
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/async-signals?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/async-signals)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/async-signals?period=monthly&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads%2Fmonth)](https://pepy.tech/projects/async-signals)
+
 Easy library to implement the observer pattern in async code.
 
 **Note:** This library is a copy of the signals library from 
