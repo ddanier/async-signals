@@ -15,6 +15,9 @@ async frameworks.
 A big thanks to the nice people why built Django! And for using a BSD license
 to make this possible.
 
+**Note:** `async-signals` is compatible with Python `3.10`, `3.11`, `3.12`, `3.13` and `3.14`.
+This is also ensured running all tests on all those versions using `tox`.
+
 ## Changes from the original Django signals library
 
 * `Signal.send(...)` and `Signal.send_robust(...)` are now async functions 🚀
