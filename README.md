@@ -5,13 +5,14 @@
 
 Easy library to implement the observer pattern in async code.
 
-**Note:** This library is a copy of the signals library from 
+**Note:** This library is a copy of the signals library from
 [Django](https://docs.djangoproject.com/en/4.1/topics/signals/). I always felt
 like using the observer pattern in Django is pretty well crafted and liked
 the way Django did implement this. But when switching to
 [FastAPI](https://fastapi.tiangolo.com/) I missed this feature. So I decided
 to copy the signals library from Django and implement it for FastAPI and other
-async frameworks.  
+async frameworks.
+
 A big thanks to the nice people why built Django! And for using a BSD license
 to make this possible.
 
